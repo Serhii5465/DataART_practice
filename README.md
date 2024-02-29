@@ -8,3 +8,6 @@ For development, the following were used:
 2. Maven
 3. Library for OpenWeather API
 4. Library for Telegram Api
+
+
+![Output from the bot:](https://github.com/Serhii5465/DataART_practice/blob/main/bot.png)
