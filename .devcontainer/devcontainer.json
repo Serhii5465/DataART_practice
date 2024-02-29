@@ -11,7 +11,7 @@
             ]
         }
     },
-    // "mounts": [
-    //     "source=${localEnv:HOME}/.ssh,target=/home/developer/.ssh,type=bind,readonly"
-    // ]
+    "mounts": [
+         "source=${localEnv:HOME}/.ssh,target=/home/developer/.ssh,type=bind,readonly"
+    ]
 }
