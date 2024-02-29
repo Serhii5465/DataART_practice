@@ -1,0 +1,17 @@
+{
+    "name" : "Java Container DataART_practice",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "vscjava.vscode-java-pack",
+                "ms-azuretools.vscode-docker"
+            ]
+        }
+    },
+    // "mounts": [
+    //     "source=${localEnv:HOME}/.ssh,target=/home/developer/.ssh,type=bind,readonly"
+    // ]
+}
